@@ -4,3 +4,5 @@ doc
 pkg
 .rake_tasks
 *.gem
+
+*.pem
